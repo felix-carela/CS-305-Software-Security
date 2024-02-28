@@ -1,4 +1,4 @@
-# CS-305-Software-Security
+## CS-305-Software-Security
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 Artemis Financial is a consulting company that develops individualized financial plans for their customers, including savings, retirement, investments, and insurance. They required modernization of their operations with a focus on software security, specifically the implementation of secure communication mechanisms and data verification steps in their web application to protect client data and financial information.
